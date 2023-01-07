@@ -1,0 +1,21 @@
+:root {
+  --color-1 :#d1b06b;
+  --color-2: #1f2732;
+  --color-3: #161d27;
+  --color-4: #d7d7d7;
+  --color-5: #909090;
+  --color-6: #d7d7d7;
+  --color-7: #3b434e;
+  --color-8: #ffffff;
+  --border-color: #4e555f;
+  --background: rgba(31, 39, 50, 0.7);
+  --background2: #2E3947;
+  --font-family-outfit: "Outfit", sans-serif;
+  --font-family-cormorant: "Cormorant Garamond", serif;
+  --font-size-45px: 45px;
+  --font-size-30px: 30px;
+  --font-size-20px: 20px;
+  --padding-wrapper: 40px 40px 140px 40px;
+  --max-width: 1440px;
+  --width: 100%;
+}
